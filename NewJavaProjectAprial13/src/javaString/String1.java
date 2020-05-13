@@ -6,11 +6,10 @@ public class String1 {
 		// TODO Auto-generated method stub
 
 		char ch[]= {'s','i','v','a'};
-		
 		String str=new String(ch);
-		
-				System.out.println(str);;
+		System.out.println(str);;
 		
 	}
+		
 
 }
